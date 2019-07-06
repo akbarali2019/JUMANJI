@@ -31,3 +31,5 @@ Besides, most people are tired of being busy with academic and non-academic life
 
 # Levels
 ![image](https://user-images.githubusercontent.com/52565814/60754921-56ad2c80-a023-11e9-9182-349c9415098b.png)
+
+![image](https://user-images.githubusercontent.com/52565814/60754938-91af6000-a023-11e9-9e9b-a38c878867fe.png)
