@@ -1,6 +1,7 @@
 # JUMANJI
 This is a very interesting labyrinth based game.
-Furhter link for the video of the game: https://www.youtube.com/watch?v=adf2BQndENA 
+Furhter link for the video of the game: 
+https://www.youtube.com/watch?v=adf2BQndENA 
 
 # Tools
 	Unreal Engine
