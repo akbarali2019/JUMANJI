@@ -25,3 +25,6 @@ Besides, most people are tired of being busy with academic and non-academic life
 
 # Main Menu
 ![image](https://user-images.githubusercontent.com/52565814/60754846-244eff80-a022-11e9-947d-e656307f3758.png)
+
+# Animation of Main Hero
+![image](https://user-images.githubusercontent.com/52565814/60754886-d25aa980-a022-11e9-84a3-05a239fc107e.png)
