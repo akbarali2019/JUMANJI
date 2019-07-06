@@ -5,6 +5,7 @@ Furhter link for the video of the game: https://www.youtube.com/watch?v=adf2BQnd
 # Tools
 	Unreal Engine
 	Photoshop
+	3D Modelling
 
 
 # Find your way on Labyrinth in Jumanji
