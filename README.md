@@ -21,3 +21,7 @@ The main idea is unreality that is based on reality. What does it mean? In our g
 Hopefully, by playing our Jumanji game the players can gain extra gaming competences and skills. Then, their logical thinking may considerably be increased, somehow.  
 Additionally, very important game techniques such as learning task management of the game and completing the task could be learnt along playing this game.
 Besides, most people are tired of being busy with academic and non-academic life difficulties and stresses in today’s life. With our game, we have aimed to help people release their stresses somehow, and make fun by playing the game that we create soon.
+
+
+# Main Menu
+![image](https://user-images.githubusercontent.com/52565814/60754846-244eff80-a022-11e9-947d-e656307f3758.png)
