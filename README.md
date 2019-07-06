@@ -2,11 +2,10 @@
 This is a very interesting labyrinth based game.
 Furhter link for the video of the game: https://www.youtube.com/watch?v=adf2BQndENA 
 
+# Tools
+	Unreal Engine
+	Photoshop
 
-#Tools
-    -Unreal Engine
-    -Photoshop
-    -3D Modelling
 
 # Find your way on Labyrinth in Jumanji
 This is the kind of logical games and it includes some enemies and a hero who should finish the levels step by step by battling against those enemies and dealing with challenges on the ways. Besides, there are some different colored balls which means, players should find an appropriate ball that fix with the door as there are also a few doors. Then, the next step is on!
